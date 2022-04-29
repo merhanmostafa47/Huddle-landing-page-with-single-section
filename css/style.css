@@ -51,8 +51,9 @@ main {
 }
 
 .content__aside {
-    margin-block-start: 2.5rem;
-    margin-inline-start: 5rem;
+    inline-size: 45%;
+    margin-block-start: 2rem;
+    margin-inline-start: 3rem;
 }
 
 .content__title {
@@ -137,6 +138,7 @@ main {
 
     .content__aside {
         margin: 2em auto;
+        inline-size: 100%;
     }
 
     .content__image,
